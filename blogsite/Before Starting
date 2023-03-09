@@ -1,0 +1,4 @@
+firstly type some commands in terminal before using these files
+
+npm init
+nmp i express lodash body-parser mongoose ejs
